@@ -1,0 +1,16 @@
+@"
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+
+# Data: keep folder, ignore contents
+data/*
+!data/.gitkeep
+
+# OS cruft
+.DS_Store
+Thumbs.db
+"@ | Out-File -Encoding utf8 .gitignore
