@@ -1,7 +1,7 @@
 # Clinical & Omics Data Analysis Projects
 
 ## Overview
-This repository contains two complementary projects aimed at pharma/biotech analyst roles. Together, they show you can work with both **clinical datasets** (patient-level) and **omics-style data** (high-dimensional).
+This repository contains two complementary projects aimed at pharma/biotech analyst roles. Together, they show i can work with both **clinical datasets** (patient-level) and **omics-style data** (high-dimensional).
 
 - **Project 1 — Clinical EDA (UCI Heart Disease, Cleveland)**
 - **Project 2 — Omics PCA (Gene Expression–like, Breast Cancer dataset)**
